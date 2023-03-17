@@ -1,0 +1,14 @@
+{
+  "name": "janelastudy1",
+  "version": "1.0.0",
+  "description": "Estudando uma abordagem interessante de janelas para electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "tonistorres",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.4"
+  }
+}

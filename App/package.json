@@ -1,0 +1,22 @@
+{
+  "name": "janela",
+  "version": "1.0.0",
+  "description": "Aplicação trabalha propriedades importante browser windows",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tonistorres/ElectronRepository.git"
+  },
+  "author": "tonistorres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonistorres/ElectronRepository/issues"
+  },
+  "homepage": "https://github.com/tonistorres/ElectronRepository#readme",
+  "devDependencies": {
+    "electron": "^23.1.4"
+  }
+}
